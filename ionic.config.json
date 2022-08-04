@@ -1,0 +1,8 @@
+{
+  "name": "VueChat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c8639ff3"
+}
